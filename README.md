@@ -14,7 +14,6 @@ forge install Recon-Fuzz/chimera
 
 When writing property-based tests, developers commonly face several issues: 
 - the amount of boilerplate code required
-- the challenge of switching tools after the initial setup
 - the difficulty in sharing results between different tools
 
 Writing invariant tests that work seamlessly with Foundry, Echidna, Medusa, and Halmos is not straightforward. 
